@@ -1,6 +1,6 @@
 ### Source: http://www.butunclebob.com/ArticleS.UncleBob.TheBowlingGameKata
 
-Running tests:
+To run tests and CodeSniffer in Docker container simply type:
 ```
 docker-compose up
 ```
